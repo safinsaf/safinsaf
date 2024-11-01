@@ -2,9 +2,9 @@
 
 # DevOps Engineer
 
-Welcome to my GitHub profile! I am focused on automation and Cloud Computing.
+Welcome to my GitHub profile! I am focused on automation and Cloud Computing
 
-📖 Focused on using opensource technologies.
+📖 Focused on using opensource technologies
 
 📝 Currently learning kubernetes
 
