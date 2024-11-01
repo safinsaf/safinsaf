@@ -38,10 +38,6 @@ Welcome to my GitHub profile! I am focused on automation and Cloud Computing.
 #### Wakatime Report
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -49,17 +45,6 @@ Welcome to my GitHub profile! I am focused on automation and Cloud Computing.
 🌆 Daytime                8205 commits        ████████████░░░░░░░░░░░░░   48.91 % 
 🌃 Evening                3721 commits        ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
 🌙 Night                  569 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   4386 commits        ███████░░░░░░░░░░░░░░░░░░   26.15 % 
-Tuesday                  3628 commits        █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
-Wednesday                2966 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Thursday                 2728 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Friday                   2158 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Saturday                 371 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-Sunday                   537 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 ```
 
 
@@ -86,5 +71,5 @@ Haskell                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2024 14:23:09 UTC
+ Last Updated on 01/11/2024 16:42:30 UTC
 <!--END_SECTION:waka-->
