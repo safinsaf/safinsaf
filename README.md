@@ -38,6 +38,26 @@ Welcome to my GitHub profile! I am focused on automation and Cloud Computing
 #### Wakatime Report
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+🌆 Daytime                276 commits         ████████░░░░░░░░░░░░░░░░░   33.09 % 
+🌃 Evening                323 commits         ██████████░░░░░░░░░░░░░░░   38.73 % 
+🌙 Night                  132 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -51,5 +71,5 @@ Haskell                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/05/2026 04:00:13 UTC
+ Last Updated on 19/05/2026 03:54:28 UTC
 <!--END_SECTION:waka-->
